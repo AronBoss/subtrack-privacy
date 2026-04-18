@@ -20,3 +20,13 @@
     
     Changes
     This privacy policy may be updated from time to time.
+
+Camera Permission Usage
+
+This app uses the device camera to enable core features such as capturing photos or processing images.
+
+The camera is only accessed with the user's explicit permission and is used solely within the app.
+
+No photos, videos, or camera data are collected, stored, or transmitted to any external servers. All processing is performed locally on the user's device.
+
+The camera is never used in the background without the user's knowledge.
